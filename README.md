@@ -1,16 +1,39 @@
-# receipe_app
+# Flutter API Call Example (Beginner Friendly)
 
-A new Flutter project.
+This project demonstrates how to fetch data from a REST API in Flutter and display it in the UI.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- REST API integration using Dio
+- JSON to Dart model conversion
+- Async/Await usage
+- Simple UI to display API data
+- Beginner-friendly structure
 
-A few resources to get you started if this is your first Flutter project:
+## Concepts Covered
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- What is an API
+- How to make HTTP requests in Flutter
+- Parsing JSON into Dart models
+- Using setState to update UI
+- Separating API logic into service files
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- Flutter
+- Dart
+- Dio package
+
+## How to Run
+
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run the app using `flutter run`
+
+## Learning Goal
+
+This project is part of the Zero to Flutter series and is meant for beginners learning how real mobile apps fetch and display data from the internet.
+
+## Author
+
+Zero to Flutter YouTube Channel
